@@ -1,9 +1,6 @@
 # DNS_Checker
 
 
-Thought for 5 seconds### DNS Record Checker
-
-I'll create a DNS record checker application with a GUI that specifically checks for DMARC, SPF, and DKIM records for a domain.
 
 ```typescriptreact project="dns-record-checker"
 ...
