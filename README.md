@@ -1,10 +1,6 @@
 # DNS_Checker
 
-
-
-```typescriptreact project="dns-record-checker"
-...
-```
+https://v0.dev/chat/dns-record-checker-T4Vnnspcrcq?b=b_0kwUVWBMqul
 
 ## How It Works
 
